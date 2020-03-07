@@ -87,12 +87,12 @@
         <dependency>
             <groupId>com.yy.framework</groupId>
             <artifactId>yy-web</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
+            <version>1.0.0-RELEASE</version>
         </dependency>
         <dependency>
             <groupId>com.yy.framework</groupId>
             <artifactId>yy-commons-extend</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
+            <version>1.0.0-RELEASE</version>
         </dependency>
 <!--        <dependency>-->
 <!--            <groupId>com.eversec.ebp.system</groupId>-->
